@@ -1,5 +1,4 @@
 # Hindi-English-code-mixed
-Overview
 A transformer-based deep learning framework designed to detect and analyses toxic, fake, and hate speech in Hindi–English code-mixed social media posts. The model addresses the challenges posed by multilingual and code-mixed content, where informal language, slang, and cultural expressions make conventional NLP techniques less effective.
 The proposed framework leverages state-of-the-art transformer architectures to improve classification performance on code-mixed datasets and provide robust detection of harmful online content.
 Features
